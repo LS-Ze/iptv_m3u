@@ -180,9 +180,9 @@ docker run -d -p 8000:8000 guovern/tv-requests 或 tv-driver
 
 <div>请我喝杯咖啡☕️吧~</div>
 
-| 支付宝                                    | 微信                                        |
+| PayPal                                    | 微信                                        |
 | ----------------------------------------- | ------------------------------------------- |
-| ![支付宝扫码](./static/images/alipay.jpg) | ![微信扫码](./static/images/appreciate.jpg) |
+| [![PayPal](https://www.paypalobjects.com/webstatic/icon/pp196.png)](https://paypal.me/ymmcc?country.x=C2&locale.x=zh_XC) | ![微信扫码](./static/images/appreciate.jpg) |
 
 ## 免责声明
 
