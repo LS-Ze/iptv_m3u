@@ -91,17 +91,17 @@
 - 接口源：
 
 ```bash
-https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u
+https://github.lsdns.top/https://raw.githubusercontent.com/LS-Ze/iptv_m3u/master/output/result.m3u
 ```
 
 ```bash
-https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
+https://github.lsdns.top/https://raw.githubusercontent.com/LS-Ze/iptv_m3u/master/output/result.txt
 ```
 
 - 数据源：
 
 ```bash
-https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/source.json
+https://github.lsdns.top/https://raw.githubusercontent.com/Guovin/iptv-api/master/source.json
 ```
 
 ## 配置
