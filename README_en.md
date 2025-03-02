@@ -91,17 +91,17 @@
 - Interface source:
 
 ```bash
-https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u
+https://github.lsdns.top/https://raw.githubusercontent.com/LS-Ze/iptv_m3u/master/output/result.m3u
 ```
 
 ```bash
-https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
+https://github.lsdns.top/https://raw.githubusercontent.com/LS-Ze/iptv_m3u/master/output/result.txt
 ```
 
 - Data source:
 
 ```bash
-https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/source.json
+https://github.lsdns.top/https://raw.githubusercontent.com/Guovin/iptv-api/master/source.json
 ```
 
 ## Config
@@ -180,9 +180,9 @@ For example: docker run -v /etc/docker/config:/tv-requests/config -v /etc/docker
 
 <div>Please buy me a cup of coffee☕️~</div>
 
-| Alipay                                | Wechat                                    |
-| ------------------------------------- | ----------------------------------------- |
-| ![Alipay](./static/images/alipay.jpg) | ![Wechat](./static/images/appreciate.jpg) |
+| PayPal                                    | 微信                                        |
+| ----------------------------------------- | ------------------------------------------- |
+| [![PayPal](https://www.paypalobjects.com/webstatic/icon/pp196.png)](https://paypal.me/ymmcc?country.x=C2&locale.x=zh_XC) | ![微信扫码](./static/images/appreciate.jpg) |
 
 ## Disclaimer
 
